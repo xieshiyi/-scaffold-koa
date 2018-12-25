@@ -1,8 +1,5 @@
-# 易壹教育云平台-微信小程序接口
-
-## Introduction
-给微信小程序提供接口
-
+## Introduction 
+基于koa2的node后端框架
 
 ## Install and Running
 
